@@ -1,0 +1,36 @@
+siparis_id,musteri_id,urun_adi,miktar,birim_fiyat,toplam_tutar,siparis_tarihi,durum,kargo_sehir
+1001,1,iPhone 15 Pro,1,64999.99,64999.99,2024-03-15,Teslim Edildi,İstanbul
+1002,2,Samsung Galaxy S24,2,44999.00,89998.00,2024-03-16,teslim edildi,Ankara
+1003,3,MacBook Air M3,1,52999.00,52999.00,15/03/2024,Kargoda,İzmir
+1004,4,Erkek Slim Fit Gömlek,3,599.90,1799.70,2024-03-18,beklemede,İstanbul
+1005,999,Bluetooth Kulaklık,1,1999.00,1999.00,2024-03-19,Teslim Edildi,Bilinmiyor
+1006,5,Airfryer,-1,4999.00,-4999.00,2024-03-20,İptal,Konya
+1007,6,Robot Süpürge,1,8999.00,8999.00,2024-03-21,TESLIM EDILDI,Bursa
+1008,7,Kahve Makinesi,1,6499.00,6499.00,2024-03-22,Teslim Edildi,Antalya
+1009,8,Koşu Bandı,1,12999.00,0.00,2024-03-23,Kargoda,Eskişehir
+1010,9,Yoga Matı,5,399.00,1995.00,23-03-2024,Teslim Edildi,Kayseri
+1011,10,Python Programlama,2,189.00,378.00,2024-03-25,beklemede,Trabzon
+1012,1,iPhone 15 Pro,1,64999.99,64999.99,2024-03-15,Teslim Edildi,İstanbul
+1013,11,Dambıl Seti,1,2499.00,2499.00,2024-03-27,,Samsun
+1014,12,Kadın Trençkot,1,2999.90,2999.90,2024-03-28,KARGODA,Gaziantep
+1015,13,Mekanik Klavye,2,2499.00,4998.00,2024/03/29,Teslim Edildi,Adana
+1016,14,Monitör,1,7999.00,7999.00,2024-03-30,Teslim Edildi,Mersin
+1017,,Spor Çanta,3,899.00,2697.00,2024-03-31,Beklemede,
+1018,15,Akıllı Saat,1,8999.00,8999.00,2024-04-01,Teslim Edildi,Mersin
+1019,16,Tablet,1,15999.00,15999.00,2024-04-02,Kargoda,Diyarbakır
+1020,17,Koşu Ayakkabısı,1,2999.00,2999.00,2024-04-03,teslim edildi,Erzurum
+1021,18,Türk Edebiyatı Seti,1,599.00,599.00,2024-04-04,Teslim Edildi,Malatya
+1022,19,Erkek Deri Ceket,1,3499.90,3499.90,04/05/2024,BEKLEMEDE,Hatay
+1023,20,SQL Öğreniyorum,10,129.00,1290.00,2024-04-06,Teslim Edildi,Manisa
+1024,21,Yapay Zeka,1,249.00,249.00,2024-04-07,Kargoda,Balıkesir
+1025,22,Kadın Elbise,2,1299.90,2599.80,2024-04-08,İptal,Tekirdağ
+1026,23,Kadın Spor Ayakkabı,1,1899.90,1899.90,2024-04-09,Teslim Edildi,Aydın
+1027,24,Xiaomi 14,1,24999.00,24999.00,2024-04-10,teslim_edildi,Denizli
+1028,25,Lenovo ThinkPad,1,35999.00,35999.00,2024-04-11,Teslim Edildi,Muğla
+1029,26,HP Pavilion,1,28999.00,28999.00,2024-04-12,Kargoda,Elazığ
+1030,27,Erkek Chino Pantolon,4,799.90,3199.60,2024-04-13,Teslim Edildi,Van
+1031,1,iPhone 15 Pro,1,64999.99,64999.99,2024-03-15,Teslim Edildi,İstanbul
+1032,28,Bluetooth Kulaklık,1,1999.00,1999.00,2024-04-15,Beklemede,Rize
+1033,29,Samsung Galaxy S24,1,44999.00,44999.00,2024-04-16,,Bolu
+1034,30,Airfryer,2,4999.00,9998.00,2024-04-17,Teslim Edildi,Kastamonu
+1035,31,iPhone 15 Pro,1,0.00,0.00,2024-04-18,KARGODA,Çanakkale

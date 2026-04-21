@@ -1,0 +1,34 @@
+urun_id,urun_adi,kategori,fiyat,stok,birim,agirlik_kg,renk
+P001,iPhone 15 Pro,Elektronik,64999.99,25,Adet,0.187,Titanium
+P002,Samsung Galaxy S24,elektronik,44999.00,40,Adet,0.195,Siyah
+P003,Xiaomi 14,ELEKTRONIK,24999.00,60,adet,0.193,Siyah
+P004,MacBook Air M3,Elektronik,52999.00,15,Adet,1.24,Gümüş
+P005,Lenovo ThinkPad,Elektronik,35999.00,20,Adet,1.58,Siyah
+P006,HP Pavilion,Elektronik,28999.00,30,Adet,1.75,Gri
+P007,Erkek Slim Fit Gömlek,Giyim,599.90,200,Adet,0.25,Beyaz
+P008,Erkek Chino Pantolon,giyim,799.90,150,adet,0.45,Lacivert
+P009,Erkek Deri Ceket,GİYİM,3499.90,45,Adet,1.80,Siyah
+P010,Kadın Trençkot,Giyim,2999.90,55,Adet,1.20,Bej
+P011,Kadın Elbise,Giyim,1299.90,80,Adet,0.35,Çiçekli
+P012,Kadın Spor Ayakkabı,Giyim,1899.90,100,Adet,0.65,Beyaz
+P013,Airfryer,Ev & Yaşam,4999.00,35,Adet,5.50,Siyah
+P014,Robot Süpürge,Ev & Yaşam,-8999.00,20,Adet,3.80,Beyaz
+P015,Kahve Makinesi,ev & yaşam,6499.00,25,Adet,8.20,Gri
+P016,Koşu Bandı,Spor,12999.00,,Adet,65.00,Siyah
+P017,Dambıl Seti,SPOR,2499.00,50,Adet,20.00,Siyah
+P018,Yoga Matı,Spor,399.00,200,adet,1.20,Mor
+P019,Spor Çanta,Spor,899.00,75,Adet,0.80,Lacivert
+P020,Koşu Ayakkabısı,spor,2999.00,60,ADET,0.58,Siyah
+P021,Türk Edebiyatı Seti,Kitap,599.00,100,Adet,3.50,
+P022,Python Programlama,Kitap,189.00,150,Adet,0.55,
+P023,Veri Yapıları,kitap,159.00,120,Adet,0.48,
+P024,SQL Öğreniyorum,KITAP,129.00,80,Adet,0.42,
+P025,Yapay Zeka,Kitap,249.00,90,Adet,0.60,
+P026,Bluetooth Kulaklık,Elektronik,1999.00,70,Adet,0.25,Siyah
+P027,Tablet,Elektronik,15999.00,25,Adet,0.462,Gri
+P028,Akıllı Saat,Elektronik,8999.00,40,Adet,0.051,Siyah
+P029,Monitör,Elektronik,7999.00,30,Adet,6.30,Siyah
+P030,Mekanik Klavye,Elektronik,2499.00,55,Adet,1.10,Siyah
+P031,iPhone 15 Pro,Elektronik,64999.99,25,Adet,0.187,Titanium
+P032,,Elektronik,9999.00,10,Adet,1.50,Beyaz
+P033,Test Ürünü,UNKNOWN,0.00,-5,Adet,0.00,
