@@ -4,15 +4,17 @@ PROJE 2 VİDEOSU: https://www.youtube.com/watch?v=hteD44UTwfY
 
 PROJE 5 VİDEOSU: https://www.youtube.com/watch?v=4UZ-W1U-mfU
 
+FİNAL İÇİN:
+
+PROJE 1 VİDEOSU: https://www.youtube.com/watch?v=46qiPLR1cFg
+
+PROJE 3 VİDEOSU: https://youtu.be/N1h6lIwvy00
+
+PROJE 7 VİDEOSU: https://youtu.be/-ZjG6iUJKMQ
 
 
- Proje 2: Veritabanı Yedekleme ve Felaketten Kurtarma (Disaster Recovery) Planı 
-Büyük ölçekli bir e-ticaret platformunda yaşanabilecek felaketlere karşı sıfır veri kaybı hedefiyle hazırladığım yedekleme ve kurtarma sistemidir. Verilerimiz `eticaret_db` veritabanında saklanmaktadır.
 
 
-
- Proje 5: Veri Temizleme ve Uçtan Uca ETL (Extract, Transform, Load) Stratejisi
-Günümüzde veritabanlarını çöplüğe dönüştüren dış kaynaklı bozuk verilere (Dirty Data) karşı geliştirdiğim otomatik bir 3 katmanlı "Veri Barajı" tasarımıdır. PostgreSQL tabanlı `etl_db` veritabanında çalışmaktadır.
 
 
 
